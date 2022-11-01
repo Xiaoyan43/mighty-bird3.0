@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 507e6eb0676e8c24f84d51dff1b4734f, type: 3}
+  m_Name: GameContainer
+  m_EditorClassIdentifier: 
+  muteState: 1
+  goldCoin: 17
+  resurrectionCoin: 0
+  bgSkinIndex: 1
+  birdSkinIndex: 0
+  birdList: 000000000200000001000000
